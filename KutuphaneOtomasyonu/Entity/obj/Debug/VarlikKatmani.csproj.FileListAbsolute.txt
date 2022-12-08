@@ -1,0 +1,12 @@
+C:\Users\Emre YAZ\Desktop\Fatih\192113035\Entity\bin\Debug\Entity.dll
+C:\Users\Emre YAZ\Desktop\Fatih\192113035\Entity\bin\Debug\Entity.pdb
+C:\Users\Emre YAZ\Desktop\Fatih\192113035\Entity\obj\Debug\VarlikKatmani.csproj.AssemblyReference.cache
+C:\Users\Emre YAZ\Desktop\Fatih\192113035\Entity\obj\Debug\VarlikKatmani.csproj.CoreCompileInputs.cache
+C:\Users\Emre YAZ\Desktop\Fatih\192113035\Entity\obj\Debug\Entity.dll
+C:\Users\Emre YAZ\Desktop\Fatih\192113035\Entity\obj\Debug\Entity.pdb
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\Entity\bin\Debug\Entity.dll
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\Entity\bin\Debug\Entity.pdb
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\Entity\obj\Debug\VarlikKatmani.csproj.AssemblyReference.cache
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\Entity\obj\Debug\VarlikKatmani.csproj.CoreCompileInputs.cache
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\Entity\obj\Debug\Entity.dll
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\Entity\obj\Debug\Entity.pdb

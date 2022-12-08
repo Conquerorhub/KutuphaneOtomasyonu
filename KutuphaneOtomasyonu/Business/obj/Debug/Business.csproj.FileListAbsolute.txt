@@ -1,0 +1,11 @@
+C:\Users\Emre YAZ\Desktop\Gökhan\182119017\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\Emre YAZ\Desktop\Gökhan\182119017\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\Emre YAZ\Desktop\Gökhan\182119017\Business\bin\Debug\Business.dll
+C:\Users\Emre YAZ\Desktop\Gökhan\182119017\Business\bin\Debug\Business.pdb
+C:\Users\Emre YAZ\Desktop\Gökhan\182119017\Business\bin\Debug\DAL.dll
+C:\Users\Emre YAZ\Desktop\Gökhan\182119017\Business\bin\Debug\Entity.dll
+C:\Users\Emre YAZ\Desktop\Gökhan\182119017\Business\bin\Debug\DAL.pdb
+C:\Users\Emre YAZ\Desktop\Gökhan\182119017\Business\bin\Debug\Entity.pdb
+C:\Users\Emre YAZ\Desktop\Gökhan\182119017\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\Emre YAZ\Desktop\Gökhan\182119017\Business\obj\Debug\Business.dll
+C:\Users\Emre YAZ\Desktop\Gökhan\182119017\Business\obj\Debug\Business.pdb

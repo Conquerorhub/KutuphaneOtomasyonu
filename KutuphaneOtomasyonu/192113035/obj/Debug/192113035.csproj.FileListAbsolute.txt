@@ -1,0 +1,42 @@
+C:\Users\Emre YAZ\Desktop\Fatih\192113035\192113035\obj\Debug\192113035.csproj.AssemblyReference.cache
+C:\Users\Emre YAZ\Desktop\Fatih\192113035\192113035\obj\Debug\192113035.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emre YAZ\Desktop\Fatih\192113035\192113035\obj\Debug\_192113035.Properties.Resources.resources
+C:\Users\Emre YAZ\Desktop\Fatih\192113035\192113035\obj\Debug\192113035.csproj.GenerateResource.cache
+C:\Users\Emre YAZ\Desktop\Fatih\192113035\192113035\obj\Debug\192113035.csproj.CoreCompileInputs.cache
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\192113035\obj\Debug\192113035.csproj.AssemblyReference.cache
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\192113035\obj\Debug\_192113035.Anasayfa.resources
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\192113035\obj\Debug\_192113035.OgrenciIslem.resources
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\192113035\obj\Debug\_192113035.Properties.Resources.resources
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\192113035\obj\Debug\192113035.csproj.GenerateResource.cache
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\192113035\obj\Debug\192113035.csproj.CoreCompileInputs.cache
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\192113035\bin\Debug\192113035.exe.config
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\192113035\bin\Debug\192113035.exe
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\192113035\bin\Debug\192113035.pdb
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\192113035\bin\Debug\Business.dll
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\192113035\bin\Debug\DAL.dll
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\192113035\bin\Debug\Entity.dll
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\192113035\bin\Debug\Business.pdb
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\192113035\bin\Debug\DAL.pdb
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\192113035\bin\Debug\Entity.pdb
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\192113035\obj\Debug\_192113035.KitapIslem.resources
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\192113035\obj\Debug\192113035.exe
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\192113035\obj\Debug\192113035.pdb
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\192113035\obj\Debug\_192113035.EmanetTeslimIslem.resources
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\192113035\bin\Debug\ZedGraph.dll
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\192113035\bin\Debug\ZedGraph.xml
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\192113035\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\192113035\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\192113035\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\192113035\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\192113035\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\192113035\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\192113035\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\192113035\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\192113035\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\192113035\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\192113035\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\192113035\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\192113035\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\192113035\obj\Debug\_192113035.KitapEmanetListe.resources
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\192113035\obj\Debug\_192113035.ogrenciEmanetListe.resources
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\192113035\obj\Debug\_192113035.GrafikOlusturma.resources

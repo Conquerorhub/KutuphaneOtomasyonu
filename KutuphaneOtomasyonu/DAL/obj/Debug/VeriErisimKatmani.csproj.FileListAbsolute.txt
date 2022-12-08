@@ -1,0 +1,18 @@
+C:\Users\Emre YAZ\Desktop\Fatih\192113035\DAL\bin\Debug\DAL.dll
+C:\Users\Emre YAZ\Desktop\Fatih\192113035\DAL\bin\Debug\DAL.pdb
+C:\Users\Emre YAZ\Desktop\Fatih\192113035\DAL\bin\Debug\Entity.dll
+C:\Users\Emre YAZ\Desktop\Fatih\192113035\DAL\bin\Debug\Entity.pdb
+C:\Users\Emre YAZ\Desktop\Fatih\192113035\DAL\obj\Debug\VeriErisimKatmani.csproj.AssemblyReference.cache
+C:\Users\Emre YAZ\Desktop\Fatih\192113035\DAL\obj\Debug\VeriErisimKatmani.csproj.CoreCompileInputs.cache
+C:\Users\Emre YAZ\Desktop\Fatih\192113035\DAL\obj\Debug\VeriErisimKatmani.csproj.CopyComplete
+C:\Users\Emre YAZ\Desktop\Fatih\192113035\DAL\obj\Debug\DAL.dll
+C:\Users\Emre YAZ\Desktop\Fatih\192113035\DAL\obj\Debug\DAL.pdb
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\DAL\bin\Debug\DAL.dll
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\DAL\bin\Debug\DAL.pdb
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\DAL\bin\Debug\Entity.dll
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\DAL\bin\Debug\Entity.pdb
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\DAL\obj\Debug\VeriErisimKatmani.csproj.AssemblyReference.cache
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\DAL\obj\Debug\VeriErisimKatmani.csproj.CoreCompileInputs.cache
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\DAL\obj\Debug\VeriErisimKatmani.csproj.CopyComplete
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\DAL\obj\Debug\DAL.dll
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\DAL\obj\Debug\DAL.pdb

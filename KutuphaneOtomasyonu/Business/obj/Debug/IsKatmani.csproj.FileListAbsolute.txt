@@ -1,0 +1,21 @@
+C:\Users\Emre YAZ\Desktop\Fatih\192113035\Business\obj\Debug\IsKatmani.csproj.AssemblyReference.cache
+C:\Users\Emre YAZ\Desktop\Fatih\192113035\Business\obj\Debug\IsKatmani.csproj.CoreCompileInputs.cache
+C:\Users\Emre YAZ\Desktop\Fatih\192113035\Business\obj\Debug\Business.dll
+C:\Users\Emre YAZ\Desktop\Fatih\192113035\Business\obj\Debug\Business.pdb
+C:\Users\Emre YAZ\Desktop\Fatih\192113035\Business\bin\Debug\Business.dll
+C:\Users\Emre YAZ\Desktop\Fatih\192113035\Business\bin\Debug\Business.pdb
+C:\Users\Emre YAZ\Desktop\Fatih\192113035\Business\bin\Debug\DAL.dll
+C:\Users\Emre YAZ\Desktop\Fatih\192113035\Business\bin\Debug\Entity.dll
+C:\Users\Emre YAZ\Desktop\Fatih\192113035\Business\bin\Debug\DAL.pdb
+C:\Users\Emre YAZ\Desktop\Fatih\192113035\Business\bin\Debug\Entity.pdb
+C:\Users\Emre YAZ\Desktop\Fatih\192113035\Business\obj\Debug\IsKatmani.csproj.CopyComplete
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\Business\bin\Debug\Business.dll
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\Business\bin\Debug\Business.pdb
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\Business\bin\Debug\DAL.dll
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\Business\bin\Debug\Entity.dll
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\Business\bin\Debug\DAL.pdb
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\Business\bin\Debug\Entity.pdb
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\Business\obj\Debug\IsKatmani.csproj.AssemblyReference.cache
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\Business\obj\Debug\IsKatmani.csproj.CoreCompileInputs.cache
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\Business\obj\Debug\Business.dll
+C:\Users\fthal\OneDrive\Masaüstü\Fatih\192113035\Business\obj\Debug\Business.pdb

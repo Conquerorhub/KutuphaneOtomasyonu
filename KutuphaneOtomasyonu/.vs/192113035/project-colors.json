@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0d7bee04-1c83-445b-a03b-d25f2efb8583": {
+      "ProjectGuid": "0d7bee04-1c83-445b-a03b-d25f2efb8583",
+      "DisplayName": "192113035",
+      "ColorIndex": 0
+    },
+    "fb48eacf-fa19-4627-9e3f-235b8e37c8ad": {
+      "ProjectGuid": "fb48eacf-fa19-4627-9e3f-235b8e37c8ad",
+      "DisplayName": "VarlikKatmani",
+      "ColorIndex": 1
+    },
+    "046ea7f6-3b58-4905-bfbe-8443ff54c070": {
+      "ProjectGuid": "046ea7f6-3b58-4905-bfbe-8443ff54c070",
+      "DisplayName": "192113035",
+      "ColorIndex": 2
+    },
+    "17826a50-9f04-4069-919d-619d0456437c": {
+      "ProjectGuid": "17826a50-9f04-4069-919d-619d0456437c",
+      "DisplayName": "IsKatmani",
+      "ColorIndex": 3
+    },
+    "875db05c-b042-419b-ae17-dca70f961be7": {
+      "ProjectGuid": "875db05c-b042-419b-ae17-dca70f961be7",
+      "DisplayName": "VeriErisimKatmani",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
